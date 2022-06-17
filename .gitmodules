@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "tablet"]
+	path = tablet
+	url = https://github.com/bergsmat/tablet
+	shallow = true
+	registered = true
+[submodule "yamlet"]
+	path = yamlet
+	url = https://github.com/bergsmat/yamlet
+	shallow = true
+	registered = true

@@ -1,0 +1,10 @@
+[
+  {
+    "package": "tablet",
+    "oncran": true
+  },
+  {
+    "package": "yamlet",
+    "oncran": true
+  }
+]
