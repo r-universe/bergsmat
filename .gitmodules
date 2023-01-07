@@ -8,6 +8,11 @@
 	url = https://github.com/bergsmat/tablet
 	shallow = true
 	registered = true
+[submodule "wrangle"]
+	path = wrangle
+	url = https://github.com/bergsmat/wrangle
+	shallow = true
+	registered = true
 [submodule "yamlet"]
 	path = yamlet
 	url = https://github.com/bergsmat/yamlet

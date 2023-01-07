@@ -4,6 +4,10 @@
     "oncran": true
   },
   {
+    "package": "wrangle",
+    "oncran": true
+  },
+  {
     "package": "yamlet",
     "oncran": true
   }
