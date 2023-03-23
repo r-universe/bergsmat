@@ -8,6 +8,11 @@
 	url = https://github.com/bergsmat/csv
 	shallow = true
 	registered = true
+[submodule "datetime"]
+	path = datetime
+	url = https://github.com/cran/datetime
+	shallow = true
+	registered = true
 [submodule "encode"]
 	path = encode
 	url = https://github.com/bergsmat/encode
@@ -26,6 +31,11 @@
 [submodule "nonmemica"]
 	path = nonmemica
 	url = https://github.com/bergsmat/nonmemica
+	shallow = true
+	registered = true
+[submodule "plotscale"]
+	path = plotscale
+	url = https://github.com/cran/plotscale
 	shallow = true
 	registered = true
 [submodule "spec"]
