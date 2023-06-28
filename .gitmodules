@@ -1,65 +1,40 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "csv"]
 	path = csv
 	url = https://github.com/bergsmat/csv
-	shallow = true
-	registered = true
 [submodule "datetime"]
 	path = datetime
 	url = https://github.com/cran/datetime
-	shallow = true
-	registered = true
 [submodule "encode"]
 	path = encode
 	url = https://github.com/bergsmat/encode
-	shallow = true
-	registered = true
 [submodule "latexpdf"]
 	path = latexpdf
 	url = https://github.com/bergsmat/latexpdf
-	shallow = true
-	registered = true
 [submodule "metaplot"]
 	path = metaplot
 	url = https://github.com/bergsmat/metaplot
-	shallow = true
-	registered = true
 [submodule "nonmemica"]
 	path = nonmemica
 	url = https://github.com/bergsmat/nonmemica
-	shallow = true
-	registered = true
 [submodule "plotscale"]
 	path = plotscale
 	url = https://github.com/cran/plotscale
-	shallow = true
-	registered = true
 [submodule "spec"]
 	path = spec
 	url = https://github.com/bergsmat/spec
-	shallow = true
-	registered = true
 [submodule "spork"]
 	path = spork
 	url = https://github.com/bergsmat/spork
-	shallow = true
-	registered = true
 [submodule "tablet"]
 	path = tablet
 	url = https://github.com/bergsmat/tablet
-	shallow = true
-	registered = true
 [submodule "wrangle"]
 	path = wrangle
 	url = https://github.com/bergsmat/wrangle
-	shallow = true
-	registered = true
 [submodule "yamlet"]
 	path = yamlet
 	url = https://github.com/bergsmat/yamlet
-	shallow = true
-	registered = true
