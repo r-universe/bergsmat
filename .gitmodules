@@ -23,6 +23,9 @@
 [submodule "plotscale"]
 	path = plotscale
 	url = https://github.com/cran/plotscale
+[submodule "script"]
+	path = script
+	url = https://github.com/cran/script
 [submodule "spec"]
 	path = spec
 	url = https://github.com/bergsmat/spec
