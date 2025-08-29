@@ -40,4 +40,4 @@
 	url = https://github.com/bergsmat/wrangle
 [submodule "yamlet"]
 	path = yamlet
-	url = https://github.com/bergsmat/yamlet
+	url = https://github.com/cran/yamlet
